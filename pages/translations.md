@@ -1,19 +1,19 @@
 ---
-title: "All WAI Translations"
-lang: en
-description: Translations of current accessibility standards and other resources from the W3C Web Accessibility Initiative (WAI).
-teaser_text: Web accessibility resources in multiple languages. Translations of W3C Web Accessibility Initiative (WAI) resources covering strategies, standards, and support to make the Web accessible to people with disabilities.
+Título: "Todas las traducciones de la WAI"
+Lang: En.
+Traducciones de los estándares de accesibilidad actuales y otros recursos de la Iniciativa de Accesibilidad Web (WAI) del W3C.
+teaser_text: Recursos de accesibilidad web en varios idiomas. Traducciones de recursos de la Iniciativa de Accesibilidad Web (WAI) del W3C que cubren estrategias, estándares y apoyo para hacer que la Web sea accesible para las personas con discapacidades.
 
-permalink: /translations/
-ref: /translations/
-parent: /
+Permalink: /traducciones/
+ref: /traducciones/
+Padre: /
 
-sidebaricon: translations
-image: /content-images/about/social-translations.png
-feedbackmail: wai@w3.org
-footer: |
-  <p>Translations managers: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin. Programmers: Eric Eggert and Rémi Bétin.</p>
-  <p>Translations management is part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access</a> and <a href="https://www.w3.org/WAI/about/projects/wai-core-ford/">WAI-Core Ford</a> projects, funded by the Ford Foundation; and the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-Coop</a> project, co-funded by the European Commission.</p>
+Sidebaricon: Traducciones
+Imagen: /content-images/about/social-translations.png
+correo de retroalimentación: wai@w3.org
+Pie de página: |
+ <P.>Gerentes de traducciones: <a.. href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a..> y Rémi Bétin. Programadores: Eric Eggert y Rémi Bétin. 
+ La gestión de traducciones forma parte de los proyectos <a. href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access</a.> y <a.. href="https://www.w3.org/WAI/about/projects/wai-core-ford/">WAI-Core Ford
 
 inline_css: |
   dl.translations > div {
